@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h2 align="center">Hi there, I'm Harpriya Minhas 👋</h2>
 <h3 align="center">PhD Scholar | IIT Indore | PMRF Fellow | Computational Materials Science & Machine Learning</h3>
