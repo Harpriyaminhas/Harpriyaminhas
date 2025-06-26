@@ -8,7 +8,6 @@
 
 I am a PhD scholar at the Indian Institute of Technology Indore, working under the supervision of **Prof. Biswarup Pathak**. My research lies at the interface of **quantum mechanics**, **machine learning**, and **materials informatics**, with a focus on **thermoelectrics**, **phonon transport**, and **heterogeneous catalysis**.
 
-> **PhD Topic:** _"First-principles and machine learning-based study for Extreme Ends of Thermal Conductivity for Nanoscale Heat Conduction and Thermoelectrics"_
 
 ---
 
@@ -25,7 +24,7 @@ I am a PhD scholar at the Indian Institute of Technology Indore, working under t
 ### ⚗️ Catalysis Research
 
 I work on **heterogeneous electrocatalysis**, especially the **oxygen reduction reaction (ORR)** and **CO₂ reduction reaction (CO₂RR)**, using:
-- **DFT + ML** for active site identification and descriptor engineering
+- **DFT + ML** for active site identification and novel descriptor engineering
 - Reaction pathway analysis for intermediates 
 - Structure–activity relationship modeling 
 
@@ -44,8 +43,3 @@ I work on **heterogeneous electrocatalysis**, especially the **oxygen reduction 
 </p>
 
 ---
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harpriyaminhas&show_icons=true&theme=default" alt="GitHub stats" />
-</p>
