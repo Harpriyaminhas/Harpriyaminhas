@@ -45,6 +45,9 @@ I'm a PhD scholar at the **Indian Institute of Technology Indore**, working unde
   <img src="https://img.shields.io/badge/Phonopy-orange?style=flat"/>
   <img src="https://img.shields.io/badge/LOBSTER-lightblue?style=flat"/>
   <img src="https://img.shields.io/badge/CHGNet-purple?style=flat"/>
+  <img src="https://img.shields.io/badge/MACE-blue?style=flat"/>
+  <img src="https://img.shields.io/badge/MatterSim-green?style=flat"/>
+  <img src="https://img.shields.io/badge/M3GNet-orange?style=flat"/>
   <img src="https://img.shields.io/badge/ALIGNN-darkgreen?style=flat"/>
 </p>
 
