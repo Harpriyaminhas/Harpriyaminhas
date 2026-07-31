@@ -12,21 +12,26 @@
 ---
 
 ### 🎓 Glad to see you here!
-<h3 align="center">PhD Scholar | IIT Indore | PMRF Fellow | Computational Materials Science & Machine Learning</h3>
 
+<h3 align="center">Postdoctoral Research Fellow | National University of Singapore (NUS) | Materialyze.AI Lab</h3>
 
-I'm a PhD scholar at the **Indian Institute of Technology Indore**, working under **Prof. Biswarup Pathak**. My work sits at the intersection of **computational materials science**, **quantum mechanics**, and **machine learning**. I'm passionate about using data-driven approaches to accelerate the discovery of novel materials for applications in **thermoelectrics** **phonon transport**, and **heterogeneous catalysis**.
+I am currently a **Postdoctoral Research Fellow** at the **National University of Singapore (NUS)**, working with **Prof. Shyue Ping Ong** in the **Materialyze.AI Lab**.
+
+Previously, I completed my PhD at the **Indian Institute of Technology Indore** under the guidance of **Prof. Biswarup Pathak**, where I was a **Prime Minister’s Research Fellow (PMRF)**.
+
+My research lies at the intersection of **computational materials science**, **quantum mechanics**, and **machine learning**, with a focus on accelerating the discovery and design of advanced materials.
 
 ---
 
 ### 🔬 Research Focus
 
-- 🎯 Engineering materials  Ultra-low thermal conductivity materials & anharmonic phonon transport  
-- 🔥 Understanding **anharmonic phonon scattering** and **low κ-lattice materials**
-- ⚛️ High-throughput screening for **thermoelectrics and catalysts**
-- 🧠 Integration of **DFT** and **ML** methods for property prediction
-- 🧪 Descriptor-based analysis of **electrocatalytic reactions** (ORR, CO₂RR)
-- 🧬 Generative AI & Graph Neural Networks for inverse materials design  
+* 🎯 Engineering **ultra-low thermal conductivity materials** & anharmonic phonon transport
+* 🔥 Understanding **anharmonic phonon scattering** and **low lattice thermal conductivity (κₗ) materials**
+* ⚛️ High-throughput screening for **thermoelectrics and catalysts**
+* 🧠 Integration of **DFT** and **machine learning** for predictive modeling
+* 🧪 Descriptor-based analysis of **electrocatalytic reactions** (ORR, CO₂RR)
+* 🧬 Generative AI & **Graph Neural Networks (GNNs)** for inverse materials design
+
 ---
 
 ### 🧠 Languages and Tools
@@ -65,8 +70,7 @@ I'm a PhD scholar at the **Indian Institute of Technology Indore**, working unde
 </p>
 
 ---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Harpriyaminhas&label=Profile%20views&color=0e75b6&style=flat" alt="Harpriyaminhas" />
 </p>
-
----
