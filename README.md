@@ -29,7 +29,7 @@ My research lies at the intersection of **computational materials science**, **q
 * 🔥 Understanding **anharmonic phonon scattering** and **low lattice thermal conductivity (κₗ) materials**
 * ⚛️ High-throughput screening for **thermoelectrics and catalysts**
 * 🧠 Integration of **DFT**, **machine learning interatomic potentials** and **machine learning** for predictive modeling
-* 🧪 Descriptor-based analysis of **electrocatalytic reactions** (ORR, CO₂RR)
+* 🧪 Descriptor-based analysis of **electrocatalytic reactions** (ORR, OER, HER, NO₂RR, CO₂RR)
 * 🧬 Generative AI & **Graph Neural Networks (GNNs)** for inverse materials design
 
 ---
